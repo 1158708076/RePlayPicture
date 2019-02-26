@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="pictureView">
+        <attr name="height" format="dimension"></attr>
+        <attr name="width" format="dimension"></attr>
+    </declare-styleable>
+    <declare-styleable name="pointPictureView">
+        <attr name="checkdraw" format="integer"></attr>
+        <attr name="normaldraw" format="integer"></attr>
+    </declare-styleable>
+
+</resources>
